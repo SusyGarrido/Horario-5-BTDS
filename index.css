@@ -13,10 +13,16 @@ th{
     background-color:#93005E;
 }
 
-p{
+p.hor{
     text-align:center;
     font-family: Welcome;
     font-size: 60px;
+}
+
+p{
+    text-align:right;
+    font-family: Welcome;
+    font-size: 40px;
 }
 
 td{
