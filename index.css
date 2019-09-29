@@ -1,0 +1,60 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+    border-block-color: #000000;
+}
+
+th{
+    text-align: center;
+    height: 50px;
+    font-family:KG Do You Love Me;
+    font-size: 30px;
+    color: #f5f5f5;
+    background-color:#93005E;
+}
+
+p{
+    text-align:center;
+    font-family: Welcome;
+    font-size: 60px;
+}
+
+td{
+    text-align: center;
+}
+
+td:hover{
+    background-color: #f5f5f5;
+}
+
+td.arq{
+    background-color: rgb(255, 62, 101);
+}
+
+td.ing{
+    background-color: rgb(233, 104, 250);
+}
+
+td.web{
+    background-color: rgb(101, 123, 245);
+}
+
+td.mat{
+    background-color:rgb(111, 255, 236);
+}
+
+td.quim{
+    background-color:rgb(253, 133, 103);
+}
+
+td.soc{
+    background-color:rgb(255, 252, 88);
+}
+
+td.rec{
+    text-align: center;
+    font-family:KG Do You Love Me;
+    font-size: 30px;
+    color: #000000;
+    background-color: #B8FF9F;
+}
